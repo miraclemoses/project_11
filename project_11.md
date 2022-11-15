@@ -97,6 +97,7 @@ by running :
 
 `ssh -A username@ip_addr`
 
+![ssh server](/ssh%20into%20server.PNG)
 _after logging in, add ssh key for persistance_
 
 `ssh-add -l`
